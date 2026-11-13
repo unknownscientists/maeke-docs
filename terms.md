@@ -16,6 +16,6 @@ The services are provided "as is" without warranties of any kind. We are not lia
 
 ## Contact Information
 For legal notices or questions regarding these Terms:
-* **Email:** uns@gmail.com
+* **Email:** info@unknownscientists.com
 * **Address:** 7 Hex, Queensdale, Harare
 * **Phone:** +263 774 206250
