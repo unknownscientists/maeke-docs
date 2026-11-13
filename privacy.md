@@ -14,6 +14,6 @@ We do not sell, trade, or rent your personal information to third parties.
 
 ## Contact Us
 If you have any questions regarding this Privacy Policy, please contact us:
-* **Email:** uns@gmail.com
+* **Email:** info@unknownscientists.com
 * **Address:** 7 Hex, Queensdale, Harare
 * **Phone:** +263 774 206250
