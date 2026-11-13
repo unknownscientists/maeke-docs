@@ -3,8 +3,8 @@
 **Last updated:** August 1, 2026
 
 **Developer:** unknownscientistś 
-**Website:** [https://www.linkedin.com/company/unknownscientistś/](https://www.linkedin.com/company/unknownscientistś/)  
-**Contact Email:** uns@gmail.com  
+**Website:** [https://www.unknownscientists.com/](https://www.unknownscientists.com/)  
+**Contact Email:** info@unknownscientists.com  
 
 ---
 
@@ -64,7 +64,7 @@ In compliance with **Google Play** and **Apple App Store policies**, users have 
 
 ### Option B: Web & Email Deletion Request
 If you cannot access the App or wish to request data deletion externally:
-* **Web Request:** You can submit a deletion request via our developer page: [https://www.linkedin.com/company/unknownscientistś/](https://www.linkedin.com/company/unknownscientistś/)
+* **Web Request:** You can submit a deletion request via our developer page: [https://www.unknownscientists.com/](https://www.unknownscientists.com/)
 * **Email Request:** Send an email from your registered account to **uns@gmail.com** with the subject line `Account & Data Deletion Request - Ftt`.
 
 Upon receiving a valid request, we will permanently delete or anonymize your account data from our active databases within **30 days**, except where retention is required by law (e.g., financial audit records).
@@ -101,5 +101,5 @@ If you have questions, concerns, or requests regarding this Privacy Policy or ou
 
 * **Developer:** unknownscientists
 * **App Name:** Ftt
-* **Support Email:** uns@gmail.com
-* **Developer Web Page:** [https://www.linkedin.com/company/unknownscientistś/](https://www.linkedin.com/company/unknownscientistś/)
+* **Support Email:** info@unknownscientists.com
+* **Developer Web Page:** [https://www.unknownscientists.com/](https://www.unknownscientists.com/)
