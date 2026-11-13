@@ -18,7 +18,7 @@ We take your privacy seriously and are committed to maintaining compliance with 
 ## 2. Information We Collect
 
 ### A. Information You Provide Directly
-* **Account Information:** If you create an account within Ftt, we may collect your email address (`uns@gmail.com`), username, and authentication details.
+* **Account Information:** If you create an account within Ftt, we may collect your email address (`info@unknownscientists.com`), username, and authentication details.
 * **Customer Support:** If you contact us via email, we collect your email address, name, and any information provided in your communication.
 
 ### B. Automatically Collected Information & Device Data
@@ -65,7 +65,7 @@ In compliance with **Google Play** and **Apple App Store policies**, users have 
 ### Option B: Web & Email Deletion Request
 If you cannot access the App or wish to request data deletion externally:
 * **Web Request:** You can submit a deletion request via our developer page: [https://www.unknownscientists.com/](https://www.unknownscientists.com/)
-* **Email Request:** Send an email from your registered account to **uns@gmail.com** with the subject line `Account & Data Deletion Request - Ftt`.
+* **Email Request:** Send an email from your registered account to **info@unknownscientists.com** with the subject line `Account & Data Deletion Request - Ftt`.
 
 Upon receiving a valid request, we will permanently delete or anonymize your account data from our active databases within **30 days**, except where retention is required by law (e.g., financial audit records).
 
@@ -79,7 +79,7 @@ We retain personal information only for as long as necessary to provide you with
 
 ## 7. Children's Privacy
 
-Ftt does not knowingly collect or solicit personal information from children under the age of 13 (or under 16 in certain European jurisdictions). If we learn that we have inadvertently collected personal data from a child without verified parental consent, we will delete that information immediately. If you believe a child has provided us with personal data, please contact us at **uns@gmail.com**.
+Ftt does not knowingly collect or solicit personal information from children under the age of 13 (or under 16 in certain European jurisdictions). If we learn that we have inadvertently collected personal data from a child without verified parental consent, we will delete that information immediately. If you believe a child has provided us with personal data, please contact us at **info@unknownscientists.com**.
 
 ---
 
